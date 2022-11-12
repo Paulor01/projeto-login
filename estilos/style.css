@@ -30,12 +30,18 @@ section#login{
     position: absolute;
     top:50%;
     left:50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+
     background-color: white;
     width: 250px;
     height: 500px;
     border-radius: 20px;
-    transform: translate(-50%, -50%);
-    overflow: hidden;
+    box-shadow: opx opx 10px rgba(0, 0, 0, 0.450);
+    
+    transition: width .3s, height .3s;
+    transition-timing-function: ease;
+    
 }
 
 section#login > div#imagem  {
