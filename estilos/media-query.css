@@ -23,7 +23,7 @@
     }
 }
 
-@media escreen and (min-width:720px) {
+@media escreen and (min-width:768px) {
     body {
         background-image: linear-gradient(to top,#49a09d,#5f2c82);
     }
