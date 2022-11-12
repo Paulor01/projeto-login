@@ -23,7 +23,7 @@
     }
 }
 
-@media escreen and (min-width:992px){
+@media escreen and (min-width:1780px){
 
     section#login {
         width: 950px;
