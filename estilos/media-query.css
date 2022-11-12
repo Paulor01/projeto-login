@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 768px) and (max-width: 1700px) {
+@media screen and (min-width: 768px) and (max-width: 1780px) {
 
 
     body {
@@ -17,17 +17,13 @@
         height: 100%;
     }
 
-    secition#login > div#formulario {
+    section#login > div#formulario {
         float: right;
         width: 70%;
     }
 }
 
 @media escreen and (min-width:992px){
-
-    body {
-        background-image: linear-gradient(to top,#666969,#333333bb);
-    }
 
     section#login {
         width: 950px;
@@ -41,6 +37,6 @@
 
     section#login > div#formulario {
         float: right;
-        width: 50%;
+        width: 70%;
     }
 }
