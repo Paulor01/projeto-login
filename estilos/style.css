@@ -14,7 +14,7 @@ Lilás:#5f2c82
 }
 
 body,html {
-    
+    display: block;
     background-image: linear-gradient(to top,#666969,#333333bb);
     height: 100vh;
     width: 100vw;
